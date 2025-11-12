@@ -1,3 +1,4 @@
+// test update to trigger deploy
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 export async function POST(req: Request) {
