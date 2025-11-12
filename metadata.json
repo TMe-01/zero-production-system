@@ -1,0 +1,7 @@
+{
+  "name": "ZERO Production System",
+  "description": "A comprehensive personal productivity and life management system with AI-powered insights, task scheduling, habit tracking, and a detailed archive.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
